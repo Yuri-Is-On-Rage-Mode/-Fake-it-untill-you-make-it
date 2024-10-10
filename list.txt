@@ -1,0 +1,25 @@
+1. https://www.w3schools.com/python/default.asp
+2. https://sechow.com/bricks/docs/login-2.html
+3. https://www.w3schools.com/python/trypython.asp?filename=demo_default
+
+3. Altoro Mutal
+4. Programmiz Editer
+5. Codepal
+
+6. https://www.online-ide.com/
+7. https://www.codechef.com/ide
+8. https://leetcode.com/
+9. https://www.principiaprogrammatica.com/
+
+10. w3schools
+11. wiki pedia
+12. chatgpt api
+13. tor network api / tor network
+
+WEB SCRAPING
+
+14. cia.gov
+15. wikipedia.com
+16. amazon.com
+17. daraz.com
+18. https://www.onlinegdb.com/online_c_compiler
